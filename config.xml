@@ -37,6 +37,6 @@ Aplicacion que nos muestra informacion sobre eldia internaciona de la salud
 <plugin name="cordova-plugin-whitelist" source="npm"/>
 <!--Colocar icono app-->
 
-<icon src="res/android/mdpi.png"/>
+<icon src="images/health-icon.png"/>
 
 </widget>
